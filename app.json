@@ -1,0 +1,9 @@
+{
+  "name": "Smack",
+  "description": "Api for ios chat app smack",
+  "website": "https://github.com/roushanj/smack",
+  "repository": "https://github.com/roushanj/smack",
+  "logo": "https://mlab.com/company/brand/resources/mLab-logo-onlight.png",
+  "keywords": ["node", "express", "angular", "angular2", "MEAN", "mongodb", "REST", "API"],
+  "addons": ["mongolab"]
+}
